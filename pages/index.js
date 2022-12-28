@@ -34,6 +34,7 @@ export default function Home() {
           name="twitter:app:url:googleplay"
           content="http://cannonball.fabric.io/poem/5149e249222f9e600a7540ef"
         />
+        <meta name="twitter:text:title" content="This is my title" />
         <title>Next.js Starter!</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
